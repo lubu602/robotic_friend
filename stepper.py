@@ -3,10 +3,10 @@ import time
  
 GPIO.setmode(GPIO.BCM)
 GPIO.setwarnings(False)
-pin1 = 4 
-pin2 = 17 
-pin3 = 27 
-pin4 = 22 
+pin1 = 3 
+pin2 = 5 
+pin3 = 7 
+pin4 = 13 
  
 # adjust if different
 StepCount = 8
